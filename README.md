@@ -16,3 +16,11 @@ y colaborar con otros desarrolladores.
 
 ## Mi primer proyecto
 Este repositorio forma parte de mi aprendizaje de Git y GitHub.
+
+
+## Flujo de colaboración
+
+1. Crear una rama para cada mejora.
+2. Realizar y guardar los cambios.
+3. Abrir un Pull Request.
+4. Revisar los cambios antes de integrarlos en main.
