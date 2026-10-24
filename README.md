@@ -29,3 +29,9 @@ Este repositorio forma parte de mi aprendizaje de Git y GitHub.
 ## Flujo de trabajo del proyecto
 
 Los cambios nuevos deben desarrollarse en ramas independientes y proponerse mediante Pull Requests.
+
+
+## Práctica de ramas
+
+Esta sección se creó en feature/practicar-sincronizacion para practicar el trabajo independiente.
+
