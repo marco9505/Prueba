@@ -26,6 +26,12 @@ Este repositorio forma parte de mi aprendizaje de Git y GitHub.
 4. Revisar los cambios antes de integrarlos en main.
 
 
+## Buenas prácticas
+
+Antes de integrar cambios, revisa el Pull Request y comprueba que el contenido sea correcto.
+
+
+
 ## Flujo de trabajo del proyecto
 
 Los cambios nuevos deben desarrollarse en ramas independientes y proponerse mediante Pull Requests.
