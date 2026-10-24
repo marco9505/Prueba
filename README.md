@@ -24,3 +24,8 @@ Este repositorio forma parte de mi aprendizaje de Git y GitHub.
 2. Realizar y guardar los cambios.
 3. Abrir un Pull Request.
 4. Revisar los cambios antes de integrarlos en main.
+
+
+## Flujo de trabajo del proyecto
+
+Los cambios nuevos deben desarrollarse en ramas independientes y proponerse mediante Pull Requests.
